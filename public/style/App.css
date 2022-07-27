@@ -1,0 +1,59 @@
+.statsBox{
+    background-color: darkslategray;
+  }
+  
+  .stats{
+    color: wheat;
+    margin-right: 10px;
+    font-size: 14px;
+  }
+
+  .icon-div{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: black;
+  }
+
+  .expBar-div{
+    width: 25px;
+    height: 150px;
+    background-color: purple;
+  }
+  
+  .itemsBox{
+    background-color: darkslateblue;
+
+  }
+
+  .box{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+  }
+
+  .circle{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: black;
+  }
+
+  .background-test{
+    background-color: blueviolet;
+    padding-right: 5px;
+  }
+
+  .passive-boxes, .summoner-boxes{
+    width: 25px;
+    height: 25px;
+    background-color: black;
+    padding-right: 2px;
+  }
+  
+  .ability-boxes{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    padding: 0px;
+  }
